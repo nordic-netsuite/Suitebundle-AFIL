@@ -1,2 +1,2 @@
 # Suitebundle-AFIL
-Also see Wiki-page https://github.com/nordic-netsuite/Suitebundle-AFIL/wiki
+Also see connected Approval Flow suitebundle: https://github.com/nordic-netsuite/Suitebundle-AF-Approval-Flow (Mentioned in User guide)
